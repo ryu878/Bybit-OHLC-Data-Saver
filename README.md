@@ -12,6 +12,9 @@ If you intend to use real money, use it at your own risk.
 Under no circumstances will we be responsible or liable for any claims, damages, losses, expenses, costs or liabilities of any kind, including but not limited to direct or indirect damages for loss of profits.
 <hr>
 
+## ToDo
+Check if data exist in the DataBase and then skip that dates
+
 ## Contacts
 Feel free to contact me via Discord: ryuryu#4087
 or join my Discord group here: https://discord.gg/zSw58e9Uvf
