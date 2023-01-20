@@ -3,6 +3,12 @@ Python script to save OHLC data from Bybit crypto exchange to your local SQLite 
 
 [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://aadresearch.xyz)
 
+## Requirements
+
+<code>pip install pybit</code>
+
+<code>pip install pandas</code>
+
 ## Disclaimer
 <hr>
 This project is for informational purposes only. You should not construe this information or any other material as legal, tax, investment, financial or other advice. Nothing contained herein constitutes a solicitation, recommendation, endorsement or offer by us or any third party provider to buy or sell any securities or other financial instruments in this or any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
