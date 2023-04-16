@@ -5,7 +5,7 @@ Python script to save OHLC data from Bybit crypto exchange to your local SQLite 
 
 ## Requirements
 
-<code>pip install pybit</code>
+<code>pip install pybit==2.4.1</code>
 
 <code>pip install pandas</code>
 
